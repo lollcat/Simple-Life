@@ -1,4 +1,5 @@
 # Simple-Life
+# Loll & Wallie <3
 
 ## Files:
   - **main.py**: This is the file to run (it is short & sweet)
