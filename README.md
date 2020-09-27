@@ -1,6 +1,6 @@
 # Simple-Life
 
-Once this works, next step is can we run the loop on many different servers, with the updated info getting sent to a central boss
+Once this works, next step is: can we run the loop on many different servers, with the updated info getting sent to a central boss
 
 
 
