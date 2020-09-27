@@ -9,5 +9,5 @@
   - **Investigation.ipynb**: Just me fiddling around in the jupyter notebook to make sure things worked before I wrote main.py
 
 
-Once this works, next step is can we run the loop on many different servers, with the updated info getting sent to a central server
+Once this works, next step is can we run the loop on many different servers, with the updated info getting sent to a central boss
 
