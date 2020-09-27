@@ -1,6 +1,6 @@
 # Simple-Life
 
-##Files:
+## Files:
   - **main.py**: This is the file to run (it is short & sweet)
   - **Simulator.fsd**: Contains the simulation file (if you open it in the GUI you should see a reactor)
   - **Requirements.txt**: Contains required python packages
